@@ -12,11 +12,9 @@ email: padhisaswati888@gmail.com
 # email_title: Email (Email title override)
 phone: 7205230635
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  saswatiSpadhi
