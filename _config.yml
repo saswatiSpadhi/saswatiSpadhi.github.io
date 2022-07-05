@@ -31,10 +31,10 @@ linkedin_username: saswati-padhi-7b543b126
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Highly analytical individual, passionate about data science and machine learning. Interested in a 
-position of Data Scientist wherein statistical and modelling abilities could be applied to gather 
-insights for effective business decision.
 
+  A Data Science enthusiastic having skills in Python, SQL ,NLP, Data Analytics along with Machine Learning and Deep Learning concepts.
+  Have strong foundation in Business Intelligence tool like tableau. Strong engineering professional with
+  Post Graduate Program in Data Science and Engineering focused in Data Science from Great Learning.
 
   #You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
