@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Saswati Padhi
-title: Aspiring Data Scientist
+title: Aspiring Data Scientist | Ex-Banker
 email: padhisaswati888@gmail.com
 # email_title: Email (Email title override)
 phone: 7205230635
@@ -22,7 +22,7 @@ linkedin_username: saswati-padhi-7b543b126
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   A Data Science enthusiastic having skills in Python, SQL ,NLP, Data Analytics along with Machine Learning and Deep Learning concepts.
