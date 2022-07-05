@@ -20,13 +20,6 @@ darkmode: false
 github_username:  saswatiSpadhi
 linkedin_username: saswati-padhi-7b543b126
 
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
@@ -35,12 +28,6 @@ about_content: | # this will include new lines to allow paragraphs
   A Data Science enthusiastic having skills in Python, SQL ,NLP, Data Analytics along with Machine Learning and Deep Learning concepts.
   Have strong foundation in Business Intelligence tool like tableau. Strong engineering professional with
   Post Graduate Program in Data Science and Engineering focused in Data Science from Great Learning.
-
-  #You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
