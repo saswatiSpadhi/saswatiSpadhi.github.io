@@ -27,7 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   A Data Science enthusiastic having skills in Python, SQL ,NLP, Data Analytics along with Machine Learning and Deep Learning concepts.
   Have strong foundation in Business Intelligence tool like tableau. Strong engineering professional with
-  Post Graduate Program in Data Science and Engineering focused on Data Science from Great Learning Institute of Manaagement.
+  Post Graduate Program in Data Science and Engineering focused on Data Science from Great Learning Institute of Management.
 
 content:
   - title: Projects # Title for the section
@@ -37,7 +37,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Diabetics Readmission Prediction using ML 
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://github.com/saswatiSpadhi/Diabetics-Project
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
